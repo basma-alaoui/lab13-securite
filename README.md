@@ -1,12 +1,5 @@
 Laboratoire : Contournement de la détection de root sous Android avec Objection
-          📌 Objectif
-Apprendre à utiliser Objection (Frida-based) pour contourner les mécanismes de détection de root dans une application Android, sans modifier l’APK.
-          🎯 Compétences visées
-Installation et prise en main d’Objection
-Injection de scripts Frida dans une application en cours d’exécution
-Désactivation automatique des checks de root (via android root disable)
-Automatisation du bypass au démarrage de l’app
-Compréhension des limites (checks natifs)
+          
            🧰 Outils nécessaires
 Outil	Rôle
 ADB	Communication avec l’appareil/émulateur
